@@ -47,7 +47,7 @@ public class Rps {
 
         //if文は真偽値の変数か、結果がbooleanになる式しか書くことができない
         if ((player)==(cpu)){
-            System.out.println("あいこ");
+            System.out.println("あいこです");
         }else if((player)==0&&(cpu)==1){
             System.out.println("あなたの勝ちです");
         }else if((player)==1&&(cpu)==2){
