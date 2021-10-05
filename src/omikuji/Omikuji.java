@@ -20,6 +20,6 @@ public class Omikuji {
         } else {
             System.out.println("大凶");
         }
-        System.out.println("尚何回でもやり直しができる!毎日大吉！");
+        System.out.println("尚何回でもやり直しができる!毎日大吉！毎日大吉！毎日大吉！");
     }
 }
